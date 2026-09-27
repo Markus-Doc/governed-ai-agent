@@ -2,7 +2,7 @@
 
 M Walker · 27 September 2026
 
-[Website portfolio](https://www.markuswalker.com/#/projects) · [Download the website edition (PDF)](docs/governed-ai-agent.pdf)
+[Website portfolio](https://www.markuswalker.com/projects/governed-ai-agent/) · [Download the website edition (PDF)](docs/governed-ai-agent.pdf)
 
 I designed and built a custom AI agent that runs in the cloud, draws everything it knows from an open knowledge base, and can only act inside policy written as code. I tested it on a live, high-stakes domain: my own job search.
 
